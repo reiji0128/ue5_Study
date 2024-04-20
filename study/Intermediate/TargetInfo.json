@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "study",
+			"Path": "C:\\Users\\reiji\\Desktop\\UE5_C++\\ue5_Study\\study\\Source\\study.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "studyEditor",
+			"Path": "C:\\Users\\reiji\\Desktop\\UE5_C++\\ue5_Study\\study\\Source\\studyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

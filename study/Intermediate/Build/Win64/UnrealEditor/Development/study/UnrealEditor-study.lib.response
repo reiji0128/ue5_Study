@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-study.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\reiji\Desktop\UE5_C++\ue5_Study\study\Intermediate\Build\Win64\studyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\reiji\Desktop\UE5_C++\ue5_Study\study\Intermediate\Build\Win64\UnrealEditor\Development\study\study.cpp.obj"
+"C:\Users\reiji\Desktop\UE5_C++\ue5_Study\study\Intermediate\Build\Win64\UnrealEditor\Development\study\studyGameModeBase.cpp.obj"
+"C:\Users\reiji\Desktop\UE5_C++\ue5_Study\study\Intermediate\Build\Win64\UnrealEditor\Development\study\study.init.gen.cpp.obj"
+"C:\Users\reiji\Desktop\UE5_C++\ue5_Study\study\Intermediate\Build\Win64\UnrealEditor\Development\study\studyGameModeBase.gen.cpp.obj"
+"C:\Users\reiji\Desktop\UE5_C++\ue5_Study\study\Intermediate\Build\Win64\UnrealEditor\Development\study\Default.rc2.res"
+/OUT:"C:\Users\reiji\Desktop\UE5_C++\ue5_Study\study\Intermediate\Build\Win64\UnrealEditor\Development\study\UnrealEditor-study.lib"
